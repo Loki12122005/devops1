@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CurrencyConverter {
+public class loki {
     public static void main(String[] args) {
         double usdToInr = 83.2;
         double eurToInr = 89.1;
@@ -50,3 +50,4 @@ public class CurrencyConverter {
         sc.close();
     }
 }
+
